@@ -1,0 +1,1 @@
+A folder for miscellanneous (is that how you spell it?) files we have for the StuySciOly site.
